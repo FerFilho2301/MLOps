@@ -57,13 +57,19 @@ with TensorFlow](https://amzn.to/3UQ8ZEq)
 
 [Hands-On GPU Programming with Python and CUDA: Explore High-performance Parallel Computing with CUDA](https://amzn.to/3rfA0DN)
 
+
+### Web Resources ###
+
+[Made with ML](https://madewithml.com/courses/mlops/)
+
+
 ### Youtube ###
 
 Este desafio foi baseado no desafio criado por Harshith Mohan Kumar. Segue o link para a playlist: [100 Days of ML](https://www.youtube.com/playlist?list=PLJC9FdR4qnfiTDFDHAiDsxJwvttoFqGS8)
 
-## Metas Diárias ##
+## Metas ##
 
-<h3>Dia 1: Implementar um modelo de regressão linear usando o FLASK</h3>
+<h3>Meta 1: Implementar um modelo de regressão linear usando o FLASK</h3>
 <ul>
 	<li>Desenvolver uma aplicação web usando FLASK</li>
 	<li>Programar um modelo de regressão linear</li>
