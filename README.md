@@ -1,4 +1,4 @@
-# 100 Dias De MLOps
+# MLOps
 
 <div style="display: inline_block">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
@@ -15,24 +15,8 @@
 
 ## Descrição ##
 
-Desafio de 100 dias de MLOps para aprender e desenvolver produtos de aprendizado de máquina. O foco deste desafio está voltado mais para o ambiente de produção do que nos conceitos e teorias de Ciência de Dados por trás dos modelos ML/DL. Darei grande ênfase ao pipeline de ML e ao processo de pegar um modelo de ML e aplicá-lo em um aplicativo do mundo real.
+Diário da minha jornada de aprendizado e engenharia de software unida aos cconcceitos de aprendizado de máquina para a construção, deploy e manutenção de produtos de ML 
 
-## Objetivos ##
-
-- [ ] Aprender a implementar modelos de ML em produção.
-- [ ] Aprender sobre scripts para MLOps
-- [ ] Conhecer mais sobre o pipeline de ML
-    - [ ] Ferramentas de orquestração
-    - [ ] Componentes TFX
-- [ ] Aprender CI/CD para ML
-- [ ] Aprender sobre CUDA e obter experiência prática
-- [ ] Conhecer mais sobre deep reinforcement learning
-    - [ ] Cadeias de Markov
-    - [ ] Probabilidades de distribuição estacionária
-    - [ ] Processos de Decisão Markov
-- [ ] Saiba mais sobre aprendizagem generativa
-- [ ] Saiba mais sobre os microsserviços da AWS
-- [ ] Saiba mais sobre privacidade e proteção para aplicativos de ML
 
 ## Recursos ##
 
@@ -63,15 +47,10 @@ with TensorFlow](https://amzn.to/3UQ8ZEq)
 [Made with ML](https://madewithml.com/courses/mlops/)
 
 
-### Youtube ###
-
-Este desafio foi baseado no desafio criado por Harshith Mohan Kumar. Segue o link para a playlist: [100 Days of ML](https://www.youtube.com/playlist?list=PLJC9FdR4qnfiTDFDHAiDsxJwvttoFqGS8)
-
 ## Metas ##
-
-<h3>Meta 1: Implementar um modelo de regressão linear usando o FLASK</h3>
+<h3>Meta 1: Design</h3>
 <ul>
-	<li>Desenvolver uma aplicação web usando FLASK</li>
-	<li>Programar um modelo de regressão linear</li>
-	<li>Fazer o deploy do modelo treinado como um serviço REST</li>
+	<li>Product Management [ ]</li>
+	<li>Engineering [ ]</li>
+	<li>Project Management [ ]</li>
 </ul>
